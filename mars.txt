@@ -1,6 +1,11 @@
 mars: 
 
 mars is red
-mars is unpopulated
-mars is not blue
-mars is dry
+mars is unpopulate
+d\
+
+modified
+
+
+
+
