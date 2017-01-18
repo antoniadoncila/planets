@@ -3,4 +3,4 @@ mars:
 mars is red
 mars is unpopulated
 mars is not blue
-
+mars is dry
